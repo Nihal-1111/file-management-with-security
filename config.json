@@ -1,0 +1,7 @@
+{
+  "pdf_files": [".pdf"],
+  "text_files": [".txt", ".docx", ".py", ".c", ".html", ".js", ".css"],
+  "images": [".jpg", ".jpeg", ".png", ".gif"],
+  "miscs": [".mp4", ".mkv", ".mp3", ".zip", ".rar", ".exe"]
+}
+
